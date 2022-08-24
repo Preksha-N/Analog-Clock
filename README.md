@@ -1,2 +1,4 @@
-# Analog-Clock
-JavaScript Analog Clock
+# Vanilla JS projects
+
+## 1.JavaScript Analog Clock
+
