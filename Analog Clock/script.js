@@ -18,4 +18,4 @@ function setRotation(element, rotaionRatio){
 
 }
 setClock()
-console.log(currentDate);
+// console.log(currentDate);
